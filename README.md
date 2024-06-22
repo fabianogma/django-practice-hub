@@ -29,7 +29,6 @@ sudo service postgresql start
 ## Environment Variables
 
 ### Create a `.env` File
-Rename the file `.env-example` to `.env` inside the `playground` project folder and change the varibles as your environment needs.
 
 ### Install Dependecies
 ```bash
